@@ -1,4 +1,4 @@
-# JavaScript Objects
+object.assign# JavaScript Objects
 
 ## Overview
 
